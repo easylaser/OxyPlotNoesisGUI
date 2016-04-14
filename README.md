@@ -5,7 +5,7 @@ You can use the .Net reference source (http://referencesource.microsoft.com) as 
 other than that.
 
 This is still very much a work in progress. There is a LOT of code that is commented out to get the project to compile,
-and a lot of things will probably not work at all or start falling apart if when changing even simple things.
+and a lot of things will probably not work at all or start falling apart if changing even simple things.
 
 Any contributions are welcome!
 
